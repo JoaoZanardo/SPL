@@ -1,0 +1,12 @@
+[submodule "spl-arduino"]
+	path = spl-arduino
+	url = https://github.com/JoaoZanardo/spl-arduino
+[submodule "spl-app"]
+	path = spl-app
+	url = https://github.com/JoaoZanardo/spl-app
+[submodule "spl-search-app"]
+	path = spl-search-app
+	url = https://github.com/JoaoZanardo/spl-search-app
+[submodule "spl-server"]
+	path = spl-server
+	url = https://github.com/JoaoZanardo/spl-server
