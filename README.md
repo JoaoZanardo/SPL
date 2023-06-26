@@ -17,19 +17,19 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 O projeto está organizado nas seguintes pastas:
 
-#### App
+### App
 
 A pasta "app" contém a aplicação visual do estacionamento, onde os usuários finais podem interagir e obter uma experiência aprimorada. Esta parte do projeto é responsável por exibir informações sobre as vagas disponíveis, permitir reservas e fornecer recursos adicionais, como pagamentos e feedbacks.
 
-#### Search App
+### Search App
 
 A pasta "search-app" contém um aplicativo específico para busca de veículos estacionados. Com base na placa do veículo ou no número da vaga, os usuários podem encontrar facilmente a localização exata do seu veículo no estacionamento.
 
-#### Server
+### Server
 
 A pasta "server" contém o backend da aplicação, responsável por toda a lógica de negócio, comunicação com o banco de dados e integração com os demais componentes do sistema. Nesta parte do projeto, são implementadas as rotas, controladores e serviços para gerenciar o fluxo de dados e as operações relacionadas ao estacionamento.
 
-#### Parking Lot
+### Parking Lot
 A pasta "parking-lot" contém o código para o Arduino, onde são controlados os sensores e motores utilizados no projeto. Por meio da integração com o Arduino, é possível obter informações em tempo real sobre a ocupação das vagas e controlar os mecanismos de abertura e fechamento das cancelas.
 
 ## Funcionalidades
